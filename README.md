@@ -1,4 +1,4 @@
-# Slot Machine em Python
+# Slot Machine em Python :slot_machine:
 Este repositório contém um projeto de slot machine em Python que foi criado para fins educacionais. É importante ressaltar que esta não é uma slot machine justa para jogar, ou seja, não deve ser utilizada com a intenção de ganhar dinheiro real.
 
 ## Como funciona?
